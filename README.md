@@ -1,14 +1,14 @@
 ### Hi there! 👋
 
-## My name is Woong Hui Won, pronounced Oooong He One.
-### I am currently a developer in Sacramento, CA for a small sales company.
+## My name is Woong Hui Won, pronounced Ooong He One.
+### I am currently a Software Developer in Seattle, WA.
 
-- 🔭 I’m currently working on -> My WebSite Portfolio
-- 🌱 I’m currently learning -> Mobile First, SCSS/SASS, ES6, Node.js, MongoDB
+- 🔭 I’m currently working on      -> Fun, Easy projects I can do day to day.
+- 🌱 I’m currently learning        -> Node.js, System Design, and Algorithms
 - 👯 I’m looking to collaborate on -> Any JavaScript Web
-- 🤔 I’m looking for help with -> How to make SVGs
-- ⚡ Fun fact -> I am fluent in Korean and English
-- 📫 How to reach me - Please connect with me with the links below
+- 🤔 I’m looking for help with     -> How to make SVGs
+- ⚡ Fun fact                      -> I am fluent in Korean and English
+- 📫 How to reach me               -> Please connect with me with the links below
 
 ### Connect with me:
 
